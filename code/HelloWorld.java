@@ -6,7 +6,5 @@ public class HelloWorld {
 		System.out.println("end of the World"); //end
 		System.out.println("end of the World is ower"); //end
 		System.out.println("Begining of the new era");
-		
 	}
-
 }
